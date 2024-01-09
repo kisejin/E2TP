@@ -1,2 +1,2 @@
 # E2TP
-E2TP: Improving Aspect Sentiment Tuple Prediction via Element to Tuple Prompting
+E2TP: Element to Tuple Prompting Improves Aspect Sentiment Tuple Prediction
