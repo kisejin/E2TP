@@ -1,13 +1,13 @@
 <h1 align="center">
 Element to Tuple Prompting (E2TP)
 </h1>
-## ✨ Introduction 
+✨ Introduction 
 
 E2TP Framework Illustration
 
-<p align="center">
-![E2TP Framework Illustration](https://github.com/mghiasvandm/E2TP/blob/main/E2TP_framework_illustration.png?raw=true)
-</p>
+<div align="center">
+[![E2TP Framework Illustration](https://github.com/mghiasvandm/E2TP/blob/main/E2TP_framework_illustration.png?raw=true)]
+</div>
 
 ## 🎯 Results
 
