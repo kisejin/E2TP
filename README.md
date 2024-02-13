@@ -5,9 +5,9 @@ Element to Tuple Prompting (E2TP)
 
 E2TP Framework Illustration
 
-<div align="center">
+<p align="center">
 ![E2TP Framework Illustration](https://github.com/mghiasvandm/E2TP/blob/main/E2TP_framework_illustration.png?raw=true)
-</div>
+</p>
 
 ## 🎯 Results
 
