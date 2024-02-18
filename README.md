@@ -1,8 +1,8 @@
 <h1 align="center">
 Element to Tuple Prompting (E2TP)
 </h1>
-✨ Introduction 
-<br><br>
+
+## ✨ Introduction 
 
 <h2 align="center">E2TP Framework Illustration</h2><br>
 
