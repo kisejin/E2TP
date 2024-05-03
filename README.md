@@ -13,7 +13,7 @@ Element to Tuple Prompting (E2TP)
 <div align="center">
 <h2>Task-specific</h2><br>
 
-![Task-specific Results](https://github.com/mghiasvandm/E2TP/blob/main/images/task_specific_results.png?raw=true)
+![In-domain task-specific Results](https://github.com/mghiasvandm/E2TP/blob/main/images/in_domain_task_specific_results.png?raw=true)
 
 <h2>Cross-domain</h2><br>
 
